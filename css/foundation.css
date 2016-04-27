@@ -6,6 +6,13 @@
   box-sizing: border-box; 
   }
   
+a.button:hover, a.button:focus
+{
+  background-color: #FCDBEC !important;
+  border-color: #FF95CF;
+  color: #411E5E !important;
+}
+
 html,
 body
 {
